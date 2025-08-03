@@ -22,7 +22,7 @@
         app:layout_constraintHorizontal_bias="0.484"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        android:src="@drawable/music"/>
+        android:src="@drawable/album_yehuimei"/>
 
     <TextView
         android:id="@+id/tv_song_name"
